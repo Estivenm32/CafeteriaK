@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 function HomePage() {
   return (
     <div className="homepage">
-      <h1>Bienvenido al sistema de inventario - KONECTA</h1>
+      <h1>Bienvenido al sistema de inventario - CAFETERIA</h1>
       <p>Seleccione una opción para comenzar:</p>
       <div className="flex space-x-6">
         <Link to="/manage-products">
